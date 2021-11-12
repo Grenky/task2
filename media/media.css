@@ -1,0 +1,329 @@
+@media  screen and ( max-width:1920px ) {
+    .mask-group {
+        background-position: center;
+        background-size: auto;
+    }
+    .header {
+        justify-content: space-between;
+        padding: 0px 50px 0px 50px;
+    }
+}
+@media screen and (max-width:1700px) {
+    .slick-prev {
+        left: 300px;
+    }
+    .slick-next{
+        right:300px;
+     }
+    .mask-group {
+        max-width: 100%;
+    }
+    .footer {
+        background-position: center;   
+    }
+}
+@media screen and (max-width:1600px) {
+    .slick-prev {
+        left: 260px;
+    }
+    .slick-next{
+        right:260px;
+     }
+}
+@media screen and (max-width:1500px) {
+    .slick-prev {
+        left: 210px;
+    }
+    .slick-next{
+        right:210px;
+     }
+}
+@media screen and (max-width:1400px) {
+    .slick-prev {
+        left: 160px;
+    }
+    .slick-next{
+        right:160px;
+     }
+}
+@media screen and (max-width:1300px) {
+    .slick-prev {
+        left: 110px;
+    }
+    .slick-next{
+        right:110px;
+     }
+}
+@media screen and (max-width:1366px) {
+    .slick-prev {
+        left: 110px;
+    }
+    .slick-next{
+        right:110px;
+     }    
+}
+@media screen and (max-width:1200px) {
+    .slider {
+        padding: 154px 250px 94px 250px;
+    }
+    .name, .email, .phone, .company {
+        width: 500px;
+    }
+    .message {
+        width: 1025px;
+        margin-left: 50px;
+    }
+    .contact-us_form {
+       margin-left: 50px;
+    }
+    .ico-email, .ico-company {
+        left: 525px;
+    }
+    .ico-message {
+        left: 50px;
+    }
+}
+@media screen and (max-width:1100px) {
+    .header-nav-menu {
+        display: none;
+    }
+    .header .header_burger {
+        display: block;
+    }
+    .About-S3-Innovate {
+        width: 90%;
+        margin:  auto;
+        margin-top: 125px;
+    }
+     .slider {
+        padding: 154px 20px 94px 20px;
+    }
+    .slick-prev {
+        left: 280px;
+    }
+    .slick-next{
+        right:280px;
+     }
+    .contact-us_form {
+        margin-left: 30px;
+    }
+    .message {
+        margin-left: 30px;
+    }
+    .ico-message {
+        left: 30px;       
+    }
+}
+@media screen and (max-width:1000px) {
+    .slick-prev {
+        left: 230px;
+    }
+    .slick-next{
+        right:230px;
+    }
+    .contact-us_form {
+        margin: 0;
+        padding: 50px 0px 5px 250px;
+    }
+    .name, .email, .phone, .company {
+        margin: 0px 0px 30px 0px;
+    }
+    .message {
+        width: 500px;
+        margin-left: 250px;       
+    }
+    .ico-name {
+        top: 52px;
+    }
+    .ico-email {
+        left: 250px;
+        top: 109px;
+    }
+    .ico-company {
+        left: 250px;
+        top: 217px;
+    }
+    .ico-message {
+        left: 250px;
+    }
+    .contact-us_form2 {
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width:900px) {
+    .slider-container_circl_img-box {
+        left: 38%;
+    }
+    .slick-prev {
+        left: 180px;
+    }
+    .slick-next{
+        right:180px;
+    }
+    .contact-us_form {
+        padding-left: 200px;
+    }
+    .ico-email, .ico-company, .ico-message {
+        left: 200px;
+    }
+    .message {
+    margin-left: 200px;        
+    }
+    .contact-us-btn {
+        margin-left: 38%;
+    }
+}
+@media screen and (max-width:800px) {
+    .slick-prev {
+        left: 130px;
+    }
+    .slick-next{
+        right:130px;
+    }  
+    .contact-us_form {
+        padding-left: 160px;
+    }
+    .ico-email, .ico-company, .ico-message {
+        left: 160px;
+    }
+    .message {
+    margin-left: 160px;        
+    }
+}
+@media screen and (max-width:600px) {
+    .mask-group_logo-text {
+        background-image: url(/images/Group-media.png);
+        width: 400px;
+        margin-left: 130px;
+    }
+    .About-S3-Innovate {
+        height: 1400px;
+    }
+    .About-S3-Innovate_main-content_box-text {
+        font-size: 12px;
+        line-height: 20px;
+        justify-content: space-around;
+    }
+    .About-S3-Innovate_start-content-text {
+        padding-top: 50px;
+    }
+  
+    .About-S3-Innovate-main-title {
+        font-size: 46px;
+        padding-bottom: 20px;      
+    }
+    .About-S3-Innovate_end-content {
+        display: none;
+    }
+    .About-S3-Innovate_main-content {
+        flex-flow: column;
+        margin-top: 90px;
+        align-items: center;      
+    }
+    .About-S3-Innovate_main-content_box {
+        padding-top: 40px;
+    }
+    .slider {
+        padding: 100px 0px 94px 0px;       
+    }
+    .slider-container_circl_img-box {
+        display: none;
+    }
+    .About-S3-Innovate_start-content-title {
+        height: 50px;
+        padding-bottom: 30px;
+        line-height: 30px;
+    }
+    .slick-prev {
+        left: 50px;
+    }
+    .slick-next{
+        right:50px;
+    }
+    .contact-us_title {
+    font-size: 57px;        
+    }
+    .contact-us_form {
+        padding-left: 50px;
+    }
+    .ico-email, .ico-company, .ico-message {
+        left:50px
+    }
+    .message {
+    margin-left: 50px;        
+    }
+    .contact-us-btn {
+        margin-left: 33%;
+    }
+    .footer_container_content_img-img {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width:400px) {
+     .mask-group_logo-text {
+        margin-left: 30px;
+    }
+    .About-S3-Innovate-main-title  {
+        font-size: 30px;
+    }
+    .About-S3-Innovate_main-title-child-title {
+        font-size: 20px;
+        margin-top: -25px;        
+    }
+    .About-S3-Innovate {
+        height: 1600px;
+    }
+    .About-S3-Innovate_main-content {
+        margin-top: 270px;
+    }
+    .slider-wrapper {
+        padding: 30px;
+    }
+    .slider-wrapper .slider__item {
+        width: 50%;
+    }
+    .contact-us_title {
+        font-size: 30px;
+    }
+    .contact-us_title-child {
+        font-size: 20px;
+        margin-top: -10px;   
+    }
+    .contact-us_form {
+        padding-left: 12px;
+    }
+    .name, .email, .phone, .company, .message {
+        width: 370px;
+    }
+    .ico-company, .ico-email, .ico-message {
+        left: 12px;
+    }
+    .message {
+        margin-left: 12px;
+    }
+    .contact-us-btn {
+        margin-left: 24%;
+    }
+}
+@media screen and (max-width:375px) {
+    .header {
+        padding: 0px 20px 0px 20px;
+    }
+    .mask-group_logo-text {
+        margin-left: 20px;
+    }
+    .slider-wrapper {
+        padding: 72px 16px 94px 16px;
+    }
+    .contact-us_title {
+        padding-top: 100px;
+    }
+    .name, .email, .phone, .company, .message {
+        width: 350px;
+    }
+    .contact-us-btn {
+        margin-left: 21%;
+        margin-top: 25px;
+    } 
+}
